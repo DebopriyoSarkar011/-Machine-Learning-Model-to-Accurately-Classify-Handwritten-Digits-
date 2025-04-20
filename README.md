@@ -1,1 +1,2 @@
 # -Machine-Learning-Model-to-Accurately-Classify-Handwritten-Digits-
+This project develops a machine learning model using a convolutional neural network (CNN) to accurately classify handwritten digits from the MNIST dataset. By leveraging deep learning techniques, the model achieves high accuracy in digit recognition, demonstrating the effectiveness of CNNs in image classification tasks and advancing automated handwriting analysis.
